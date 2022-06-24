@@ -20,8 +20,11 @@ Work through all these exercises. You edit this file with your answers for these
 * Use `getBalance` to check that the machine has a record of the amount inserted.
 	* You can insert several separate amounts of money into the machine, just like you might insert multiple coins or notes into a real machine. Try inserting the exact amount required for a ticket. As this is a simple machine, a ticket will not be issued automatically, so once you have inserted enough money, call the `printTicket` method. A facsimile ticket should be printed in the BlueJ terminal window.
 
+
+
+
 ### Exercise 2.2
-* What value is returned if you check the machine’s balance after it has printed a ticket?
+* What value is returned if you check the machine’s balance after it has printed a ticket? A higher value 
 
 ### Exercise 2.3
 * Experiment with inserting different amounts of money before printing tickets.
